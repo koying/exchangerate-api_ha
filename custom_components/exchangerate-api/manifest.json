@@ -3,7 +3,8 @@
     "name": "Exchange rates api",
     "version": "1.0",
     "config_flow": true,
-    "documentation": "https://exchangeratesapi.io/",
+    "documentation": "https://github.com/koying/exchangerate-api_ha",
+    "issue_tracker": "https://github.com/koying/exchangerate-api_ha/issues",
     "codeowners": ["@koying"]
   }
   
