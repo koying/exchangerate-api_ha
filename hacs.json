@@ -1,0 +1,6 @@
+{
+  "name": "Exchange rates api",
+  "domains": ["sensor"],
+  "iot_class": ["Local Polling"],
+  "render_readme": true
+}
