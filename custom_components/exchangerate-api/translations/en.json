@@ -1,0 +1,21 @@
+{
+    "title": "Exchange rates api",
+    "config": {
+        "flow_title": "Exchange rates Configuration",
+        "step": {
+            "user": {
+                "title": "Exchange rates",
+                "description": "Configure the exchange rates details.",
+                "data": {
+                    "api_key": "API key",
+                    "base": "Base currency",
+                    "quote": "Target currency"
+                }
+            }
+        },
+        "error": {
+        },
+        "abort": {
+        }
+    }
+}
